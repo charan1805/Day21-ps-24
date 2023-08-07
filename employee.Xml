@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Employee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2568783</Id>
+  <FirstName>sree</FirstName>
+  <LastName>charan</LastName>
+  <Salary>300000</Salary>
+</Employee>

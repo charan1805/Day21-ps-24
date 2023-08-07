@@ -1,0 +1,6 @@
+E:\my details\personal\c sharp\day21\EmpLib\EmpLib\bin\Debug\EmpLib.dll
+E:\my details\personal\c sharp\day21\EmpLib\EmpLib\bin\Debug\EmpLib.pdb
+E:\my details\personal\c sharp\day21\EmpLib\EmpLib\obj\Debug\EmpLib.csproj.AssemblyReference.cache
+E:\my details\personal\c sharp\day21\EmpLib\EmpLib\obj\Debug\EmpLib.csproj.CoreCompileInputs.cache
+E:\my details\personal\c sharp\day21\EmpLib\EmpLib\obj\Debug\EmpLib.dll
+E:\my details\personal\c sharp\day21\EmpLib\EmpLib\obj\Debug\EmpLib.pdb
